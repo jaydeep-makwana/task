@@ -1,0 +1,24 @@
+Html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+small {
+    color: red;
+}
+
+.z-0 {
+    display: none;
+}
+
+.pagination nav {
+    width: fit-content;
+    margin: auto;
+}
+
+.prLabel {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: large;
+}
